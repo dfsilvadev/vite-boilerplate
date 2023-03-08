@@ -1,17 +1,5 @@
-# Ignore all .hbs files
-*.hbs
-
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-
-# testing
-/coverage
-
-# next.js
-/.next/
-/out/
-
-# production
-/build
+# Ignore artifacts:
+build
+coverage
+node_modules
+vscode

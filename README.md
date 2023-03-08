@@ -1,2 +1,0 @@
-# vite-boilerplate
-Boilerplate Vite
