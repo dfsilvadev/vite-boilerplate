@@ -1,6 +1,6 @@
 import { ThemeProvider } from "styled-components";
 
-import { DefaultTheme, GlobalStyles } from "./styles";
+import { DefaultTheme, GlobalStyles } from "@/styles";
 
 function App() {
   return (
